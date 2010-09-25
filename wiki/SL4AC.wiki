@@ -1,4 +1,7 @@
 #summary Give C programs access to Android API via SL4A
+#labels Featured
+
+= Write C programs that can access the Android API =
 
 Most Android programs are written in Java.  The major exception is [http://code.google.com/p/android-scripting/ SL4A], "Scripting Languages for Android", which ships quite a few different scripting languages and a simplified Android API.
 
